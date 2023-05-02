@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+table {
+    border: 2px solid #afafaf;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+tr {
+    margin: 0;
+    border-top: 1px solid #afafaf;
+}
+td {
+    text-align: center;
+    border-top: 1px solid #afafaf;
+    margin: 0;
+}
+
+.name{width: 60%;}
+.price{width: 40%;}
+.nameb{width: 50%;}
+.priceb{width: 40%;}
+.qty{width: 10%}
