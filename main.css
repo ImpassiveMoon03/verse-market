@@ -5,6 +5,7 @@
 }
 
 table {
+    float: none;
     border: 2px solid #afafaf;
     width: 70%;
     margin-left: auto;
@@ -18,6 +19,12 @@ td {
     text-align: center;
     border-top: 1px solid #afafaf;
     margin: 0;
+}
+
+.link{
+    width: 33%;
+    float:left;
+    text-align: center;
 }
 
 .name{width: 60%;}
